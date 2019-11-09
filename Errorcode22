@@ -1,0 +1,17 @@
+C:\Users\Bader>"C:\Users\Bader\Desktop\IPSW IOS\futurerestore.exe" -t "C:\Users\Bader\Desktop\IPSW IOS\7958025325440942_iPhone10,5_d211ap_12.1.4-16D57_27325c8258be46e69d9ee57fa9a8fbc28b873df434e5e702a8b27999551138ae.shsh2" --latest-sep --latest-baseband "C:\Users\Bader\Desktop\IPSW IOS\iPhone_5.5_P3_12.1.4_16D57_Restore.ipsw"
+Version: 81b98e0425e17250cc83d5badaf9a8cc6399f481 - 245
+Odysseus support: no
+[INFO] 64-bit device detected
+futurerestore init done
+reading signing ticket C:\Users\Bader\Desktop\IPSW IOS\7958025325440942_iPhone10,5_d211ap_12.1.4-16D57_27325c8258be46e69d9ee57fa9a8fbc28b873df434e5e702a8b27999551138ae.shsh2 is done
+Found device iPhone10,5 d211ap
+user specified to use latest signed SEP (WARNING, THIS CAN CAUSE A NON-WORKING RESTORE)
+[TSSC] opening firmware.json
+[DOWN] downloading file https://api.ipsw.me/v2.1/firmwares.json/condensed
+[TSSC] selecting latest iOS: 13.2.2
+[TSSC] got firmware URL for iOS 13.2.2 build 17B102
+[TSSC] opening Buildmanifest for iPhone10,5_13.2.2
+PK    N N ╓   .£u∙  [Error] [LFZP] failed to open URL
+[Error] couldn't get buildmanifest of latest firmware
+[Error] Fail code=-22
+Failed with errorcode=-22
